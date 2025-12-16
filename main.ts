@@ -5,10 +5,10 @@
  * @fileoverview this program starts at 100 and counts down in 5s until it reaches 0
  */
 
-//variables
-let StartingPoint: number = 100;
-let EndPoint: number = 0;
-let Countdown: number = 5;
+//constants
+const StartingPoint: number = 100;
+const EndPoint: number = 0;
+const Countdown: number = 5;
 
 //loop from 100 - 0
 for (
